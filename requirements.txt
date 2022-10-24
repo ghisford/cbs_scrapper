@@ -1,0 +1,8 @@
+Flask
+flask-sqlalchemy
+PyMySQL
+Flask-Migrate
+flask-marshmallow
+lxml
+bs4
+marshmallow-sqlalchemy
